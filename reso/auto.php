@@ -121,14 +121,14 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
-    <span class="loading-text-words">I</span>
-    <span class="loading-text-words">S</span>
+    <span class="loading-text-words">(*_*)</span>
+    <span class="loading-text-words">C</span>
     <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
+    <span class="loading-text-words">I</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">T</span>
     <span class="loading-text-words">A</span>
-    <span class="loading-text-words">R</span>
+    <span class="loading-text-words">(*_*)</span>
 </div>
 </div>
 
